@@ -1,0 +1,7 @@
+matplotlib>=3.5.0    # Para gráficos y visualización
+numpy>=1.21.0        # Para cálculos numéricos y matrices
+Pillow>=9.0.0        # Para manejo de imágenes (PIL)
+python-dateutil>=2.8 # Dependencia de matplotlib
+cycler>=0.11         # Dependencia de matplotlib
+kiwisolver>=1.4.4    # Dependencia de matplotlib
+tkinter>=0.1.0       # Interfaz gráfica (normalmente incluida en Python, pero en Linux puede requerir instalación manual)
